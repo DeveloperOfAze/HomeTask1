@@ -1,0 +1,102 @@
+#header1{
+    background-color: #fff;
+    background-position: fixed;
+    vertical-align: baseline;
+     width: 100%;
+     height: 5rem;
+   
+     
+}
+
+body{
+    background-image: url(/HomeWorkPartContact/assets/images/concrete_seamless.png);
+    background-size: 10rem;
+    margin: 0;
+}
+.a-contact{
+    text-decoration: none;
+    color: #777;
+    float: right;
+    margin-left: 10px;
+    font-size: 2rem;
+
+    
+}
+#divheader{
+    margin-right: 6rem;
+    margin-top: -3.5rem;
+}
+#YourName{
+    text-decoration: none;
+    color: white;
+    background-color: #4aaaa5    ;
+    margin-left: 10px;
+    font-size: 2rem;
+    display: block;
+    width: 10rem;
+margin-left: 10rem;
+    padding: 1.25rem;
+}
+#div-esas{
+    background-color: white;
+    width: 50%;
+    height: 35rem;
+    margin-left: 10rem;
+}
+h1{
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+    margin-left: 2rem;
+
+}
+ul{
+    color: #777;
+    list-style: none;
+    font-size: 30px;
+}
+#Submit{
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
+    margin-left: 2.5rem;
+}
+#divcontact{
+    width: 250px;
+    height: 200px;
+    float: right;
+    margin-top: -30rem;
+    background-color: #fff;
+    margin-right: 3rem;
+
+}
+#divcontact h2,p{
+    color: #4aaaa5;
+    margin: 2rem;
+}
+#divcontact img{
+    width: 50px;
+    height: 50px
+;
+margin-left:1.5rem ;
+}
+#footer-div{
+    width: 100%;
+height: 4.5rem;
+    margin: 0 auto;
+    clear: both;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 15.9rem;
+}

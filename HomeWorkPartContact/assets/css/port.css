@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+}
+.work img{
+width: 35%;
+height: 35%;
+}
+#div-2 img{
+    width: 75%;
+    height: 35%; 
+}
+#div-esas{
+    width: 75%;
+    height: 70%;
+    margin-top: 2rem;
+    padding: 1rem 1rem;
+}
+#div-2{
+    float: right;
+    margin-top: -54.5rem;
+}
+#triva1{
+
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 20%;
+    position: absolute;
+    top: 20rem;
+left: 190px;
+
+padding: 1rem;
+}
+#triva2{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 20%;
+    position: absolute;
+    bottom: 2rem;
+left: 195px;
+padding: 1rem;
+}
+#triva3{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 20%;
+    position: absolute;
+     top: 56.5rem;
+left: 195px;
+padding: 1rem;
+}
+
+#triva4{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 30%;
+    position: absolute;
+     top: 25rem;
+     margin-left: 4.5px;
+   
+padding: 1rem;
+left: 40.25rem;
+}
+#triva5{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 30%;
+    position: absolute;
+     top: 48.5rem;
+   
+padding: 1rem;
+
+margin-left: 2px;
+
+}
+#divcontact2{
+    width: 250px;
+    height: 200px;
+    float: right;
+    margin-top: -52rem;
+    background-color: #fff;
+    margin-right: 3rem;
+}
+#divcontact2 h2,p{
+    color: #4aaaa5;
+    margin: 2rem;
+}
+#divcontact2 img{
+    width: 50px;
+    height: 50px
+;
+margin-left:1.5rem ;
+}
+#footer-div3{
+    width: 100%;
+height: 4.5rem;
+    margin: 0 auto;
+    clear: both;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 1rem;
+    margin-top: 15.9rem;
+}
