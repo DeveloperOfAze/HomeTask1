@@ -3,6 +3,7 @@ body{
 }
 #div-esas img{
     width: 10rem;
+    margin-left: 0.5rem;
     
 }
 #p1{
@@ -16,6 +17,11 @@ body{
    display: block;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    margin-left: 2rem;
+   padding-bottom: 20px;
+   font-size: 30px;
+   line-height: 49px;
+   border-bottom: 3px solid #ddd;
+   color: #4aaaa5;  
 }
 #div-esas{
     background-color: white;
