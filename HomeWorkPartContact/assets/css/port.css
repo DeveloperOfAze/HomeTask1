@@ -11,7 +11,7 @@ height: 35%;
 }
 #div-esas{
     width: 65%;
-    height: 60rem;
+    height: 70rem;
     margin-top: 2rem;
     padding: 1rem 1rem;
 }
@@ -19,7 +19,7 @@ height: 35%;
         margin-top: -80%;
     margin-left: 40%;
 }
-#triva1{
+/* #triva1{
 
     color: #fff;
     text-align: center;
@@ -87,7 +87,7 @@ padding: 1rem;
 
 margin-left: 2px;
 
-}
+} */
 #divcontact2{
     width: 300px;
     height: 200px;
@@ -124,10 +124,136 @@ height: 4.5rem;
     margin-top: 1rem;
     margin-top: 15.9rem;
 }
-h2{
+/* h2{
     padding-bottom: 20px;
     font-size: 30px;
     line-height: 49px;
     border-bottom: 3px solid #ddd;
     color: #4aaaa5;     
+} */
+#esas{
+    background-color: white;
+    width: 50%;
+    height: 45rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Sekil1 img{
+    width: 49%;
+    height: 20rem;
+}
+/* #Sekil1 p:first-child{
+    background-color: aqua;
+    color: white;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    width: 367px;
+    height: 50px;
+    top: 250px;
+} */
+/* #sekil2{
+    background-color: aqua;
+    color: white;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    width: 367px;
+    height: 50px;
+    right: 384px;
+    top: 250px;
+} */
+#Sekil2 img{
+    width: 49%;
+    height: 20rem; 
+}
+/* #sekil2-text{
+    background-color: aqua;
+    color: white;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    width: 367px;
+    height: 50px;
+    right: 384px;
+    top: 550px;
+} */
+/* #sekil3{
+background-color: aqua;
+    color: white;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    width: 367px;
+    height: 50px;
+    left: 374.5px;
+    top: 550px;
+
+} */
+#Hangman{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 29.7%;
+    position: absolute;
+    top: 55%;
+ left: 9rem;
+padding: 1rem;
+}
+#RPGGame{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 29.7%;
+    position: absolute;
+    top: 55%;
+right: 20.3rem;
+padding: 1rem;
+}
+#TriviaGame{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 29.7%;
+    position: absolute;
+    top: 96%;
+ left: 9rem;
+padding: 1rem;
+}
+#RPS{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 29.7%;
+    position: absolute;
+right: 20.3rem;
+top: 96%;
+padding: 1rem;
+}
+#RIW{
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 22px;
+    width: 29.7%;
+    position: absolute;
+ bottom: -26rem;
+ right: 50rem;
+padding: 1rem;
+}
+#port{
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    color: rgb(74, 170, 165);
+    border-bottom: 3px solid rgb(221, 221, 221);
 }
